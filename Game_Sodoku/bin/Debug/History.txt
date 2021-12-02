@@ -1,0 +1,22 @@
+-TG-8/3/2021 1:07:12 AM:
+Insert dữ liệu cho bản ghiThêm dữ liệu cho bản ghi : (cua,,dfsfwwe,4,) thất bại
+-TG-8/3/2021 1:11:52 AM:
+Insert dữ liệu cho bản ghiThêm dữ liệu cho bản ghi : (cua,,dfsfwwe,4,) thất bại
+-TG-8/3/2021 1:11:55 AM:
+Insert dữ liệu cho bản ghiThêm dữ liệu cho bản ghi : (cua,,dfsfwwe,4,) thất bại
+-TG-8/3/2021 1:12:26 AM:
+Insert dữ liệu cho bản ghiThêm dữ liệu cho bản ghi : (cua,,dfsfwwe,4,) thất bại
+-TG-8/3/2021 1:13:21 AM:
+Insert dữ liệu cho bản ghiThêm dữ liệu cho bản ghi : (cua,,dfsfwwe,4,) thất bại
+-TG-8/3/2021 1:13:39 AM:
+Edit dữ liệu cho bản ghi ban đầu : (59,cua,,dfsfwwe,4,) --->(59,cua,,dfsfwwe,4,) .thành công
+-TG-8/3/2021 1:35:49 AM:
+Delete Dữ liệu cho các bản ghi :---> thành công
+-TG-8/3/2021 1:35:56 AM:
+Delete Dữ liệu cho các bản ghi :---> thành công
+-TG-8/3/2021 1:36:01 AM:
+Delete Dữ liệu cho các bản ghi :---> thành công
+-TG-8/3/2021 1:36:09 AM:
+Edit dữ liệu cho bản ghi ban đầu : (59,cua,,dfsfwwe,4,) --->(59,cua,,dfsfwwe,4,) .thành công
+-TG-8/3/2021 1:36:12 AM:
+Insert dữ liệu cho bản ghiThêm dữ liệu cho bản ghi : (cua,,dfsfwwe,4,) thất bại
